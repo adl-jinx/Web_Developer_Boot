@@ -1,0 +1,17 @@
+unordered list
+
+to display a list is necessary <ul><ul/> tag
+inside the "unordered list" tag 
+
+you can use <li><li/> tag 
+
+the <ol><ol/> is "ordered list"
+
+
+example.
+
+<ol>
+
+<li> listOne <li/>
+
+<ol/>

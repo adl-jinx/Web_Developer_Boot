@@ -1,0 +1,10 @@
+
+There is Break and Horizontal Ruler.
+Are separator.
+
+Uses angle-brackets 
+
+this goes at the end of the line <b/>
+Technically break the line as some sort of /n
+
+ <hr/>
